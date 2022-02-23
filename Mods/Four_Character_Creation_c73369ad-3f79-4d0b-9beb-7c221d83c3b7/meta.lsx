@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1473738927" />
+    <version major="2" minor="0" revision="0" build="0" />
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="DataPacks">
+                    <children>
+                        <node id="DataPack">
+                            <attribute id="Folder" value="Four_Character_Creation_c73369ad-3f79-4d0b-9beb-7c221d83c3b7" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Four Character Creation" type="22" />
+                            <attribute id="UUID" value="c73369ad-3f79-4d0b-9beb-7c221d83c3b7" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                        <node id="DataPack">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                        <node id="DataPack">
+                            <attribute id="Folder" value="Main" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Main" type="22" />
+                            <attribute id="UUID" value="00000000-0000-0000-0000-000000000000" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+                <node id="DependentModules">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Main" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Main" type="22" />
+                            <attribute id="UUID" value="00000000-0000-0000-0000-000000000000" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+                <node id="ModuleInfo">
+                    <attribute id="Author" value="SniperHF" type="30" />
+                    <attribute id="Description" value="Play Divinity: Original Sin the Enhanced Edition with full party creation.  &#x0D;&#x0A;&#x0D;&#x0A;This mod was created with help from Cadmus at Larian and Roguelike the creator of the original 4 Character Creation mod.&#x0D;&#x0A;&#x0D;&#x0A;This mod is largely untested and surely has some bugs.  " type="30" />
+                    <attribute id="Folder" value="Four_Character_Creation_c73369ad-3f79-4d0b-9beb-7c221d83c3b7" type="30" />
+                    <attribute id="MD5" value="" type="23" />
+                    <attribute id="MenuLevelName" value="MenuScreen_FourCC" type="22" />
+                    <attribute id="Name" value="Four Character Creation" type="22" />
+                    <attribute id="NumPlayers" value="16" type="1" />
+                    <attribute id="StartupLevelName" value="CharacterCreation" type="22" />
+                    <attribute id="Tags" value="" type="30" />
+                    <attribute id="Type" value="EE" type="22" />
+                    <attribute id="UUID" value="c73369ad-3f79-4d0b-9beb-7c221d83c3b7" type="22" />
+                    <attribute id="Version" value="268435456" type="4" />
+                    <children>
+                        <node id="Scripts">
+                            <children>
+                                <node id="Script">
+                                    <attribute id="UUID" value="5bc80992-a7f6-4da6-83e2-3d276384d8f7" type="22" />
+                                    <children>
+                                        <node id="Parameters">
+                                            <children>
+                                                <node id="Parameter">
+                                                    <attribute id="MapKey" value="HardcoreOnly" type="22" />
+                                                    <attribute id="Type" value="1" type="4" />
+                                                    <attribute id="Value" value="0" type="23" />
+                                                </node>
+                                                <node id="Parameter">
+                                                    <attribute id="MapKey" value="SayBlindedText" type="22" />
+                                                    <attribute id="Type" value="1" type="4" />
+                                                    <attribute id="Value" value="1" type="23" />
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
